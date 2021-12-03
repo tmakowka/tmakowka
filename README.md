@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Father // Husband // Cloud Enthusiast
+
+🔭 I’m currently working on 
+- Home Automation (Home Assistant / FHEM)
+- Cloud Automation (Azure / GCP)
+
+😄 Pronouns: he/him
+
 <!--
 **tmakowka/tmakowka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
